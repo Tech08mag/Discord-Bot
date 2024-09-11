@@ -3,7 +3,6 @@ Ein grundlegendes Script für einen Discord Bot geschrieben mit der Libary Disco
 
 Vorraussetzungen:
 1. Wissen, wie man einen Discord Bot im Discord Developer Portal erstellt und zu einem Server seiner Wahl hinzufügt.
-2. Man sollte mit den Developer Tools von Discord umgehen können.
 
 #  Wie installiert man die Libary?
 
