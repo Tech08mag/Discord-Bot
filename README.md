@@ -7,10 +7,10 @@ Vorraussetzungen:
 #  Wie installiert man die Libary?
 
 unter Windows:
-py -3 -m pip install discord-py-interactions --upgrade
+`py -3 -m pip install discord-py-interactions --upgrade`
 
 unter Linux:
-python3 -m pip install discord-py-interactions --upgrade
+`python3 -m pip install discord-py-interactions --upgrade`
 
 
 # Was muss ich tun, um das Script für meinen Bot zu nutzten?
@@ -22,7 +22,7 @@ python3 -m pip install discord-py-interactions --upgrade
 # Wo finde ich die Dokumentationen?
 
 Wie erstellt man einen Discord Bot:
-- https://praxistipps.chip.de/discord-bot-erstellen-eine-anleitung_118538
+https://praxistipps.chip.de/discord-bot-erstellen-eine-anleitung_118538
 
 Alles zu der Libary:
-- https://interactions-py.github.io/interactions.py/Guides/01%20Getting%20Started/#__tabbed_2_1
+https://interactions-py.github.io/interactions.py/Guides/01%20Getting%20Started/#__tabbed_2_1
